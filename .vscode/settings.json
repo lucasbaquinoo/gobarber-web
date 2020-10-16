@@ -3,5 +3,8 @@
     "errored",
     "is",
     "is errored"
+  ],
+  "cSpell.ignoreWords": [
+    "signin"
   ]
 }
